@@ -12,7 +12,7 @@ Thank You and God Bless!
 
 ---Jonathan Bruce (@JwBZx)
 
-(:octocat: :+1:) :crown: :-1: :smile:
+(:octocat: :+1:) :crown: :-1:
 - - - - - - - - - - -
 My GitHub: github.com/JwBZx
 
