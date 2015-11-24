@@ -6,6 +6,8 @@ This is the file where I will be storing all of the Bazinga Cards before moving 
 The cards here will be organized by color (green, orange, pink, and yellow) and also by type (points, teams, and activities).
 
 Look below for the full list of Bazinga Board cards!
+
+(First is a list of Abbreviations)
 - - - - - - - - - -
 #List of Abbreviations:
 
